@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jmcdaniel-incomm
-- I herd some of the Serve development teams as they build the best banking as a service platform in the industry.
+- I herd the Serve development teams as they build the best banking as a service platform in the industry.
 - 📫 How to reach me, jmcdaniel@incomm.com
 
 <!---
